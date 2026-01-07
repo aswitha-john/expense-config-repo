@@ -1,0 +1,3 @@
+jwt:
+  secret: expense-secret-key
+  expiration: 3600000
