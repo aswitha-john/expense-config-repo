@@ -1,3 +1,3 @@
 jwt:
-  secret: expense-secret-key
+  secret: my-super-secure-jwt-secret-key-1234567890-abcd
   expiration: 3600000
